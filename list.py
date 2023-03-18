@@ -1,0 +1,12 @@
+l=[1,'java',7,'jahk''a','a']
+print(l)
+print(l.count('a'))
+print(l.index(7,1))
+#slicing
+list=[1,2,10.1,'hyy',7,'ui',8,9,0]
+print(list)
+#print(len(list))
+print(list[2:8])
+print(list[1:9:2])
+print(list[::3])
+print(list[-5:-1])
